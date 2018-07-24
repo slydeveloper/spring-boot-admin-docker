@@ -1,12 +1,17 @@
 Spring Boot Admin Docker
-===========================================
+========================
 Yet another implementation containerized of the [spring-boot-admin](https://github.com/codecentric/spring-boot-admin)
+
+Docker Image
+------------
+[![](https://images.microbadger.com/badges/image/slydeveloper/spring-boot-admin.svg)](https://microbadger.com/images/slydeveloper/spring-boot-admin "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/slydeveloper/spring-boot-admin.svg)](https://microbadger.com/images/slydeveloper/spring-boot-admin "Get your own version badge on microbadger.com")
 
 Info
 ----
 - Name: `slydeveloper/spring-boot-admin`
 - Version: `latest`,`1.0`
-- [Docker Hub](https://hub.docker.com/u/slydeveloper/)
+- [Docker Hub](https://hub.docker.com/r/slydeveloper/spring-boot-admin/)
 
 Details
 --------
@@ -64,7 +69,7 @@ Example command:
 Docker-Compose example
 ----------------------
 Health check usage of `slydeveloper/spring-boot-admin` with Docker-Compose.
-Full working Spring Boot Admin client [here](https://github.com/slydeveloper).
+Full working Spring Boot Admin client [here](https://github.com/slydeveloper/spring-boot-admin-example).
 ```
 version: '2.1'
 
