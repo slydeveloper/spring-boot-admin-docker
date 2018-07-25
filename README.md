@@ -1,6 +1,6 @@
 Spring Boot Admin Docker
 ========================
-Yet another implementation containerized of the [spring-boot-admin](https://github.com/codecentric/spring-boot-admin)
+Yet another implementation of containerized [spring-boot-admin](https://github.com/codecentric/spring-boot-admin)
 
 Docker Image
 ------------
