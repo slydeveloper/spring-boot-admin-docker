@@ -35,7 +35,7 @@ Configuration via environment variables
 * `SPRING_BOOT_ADMIN_TITLE=test`
     * set Page-Title: `test`
 * `SPRING_BOOT_ADMIN_SECURITY_ENABLED=false`
-    * disable default : `password`
+    * disable login form (default : `true`)
 
 ##### Examples
 * `docker run -d -p 1111:1111 -e SPRING_BOOT_ADMIN_TITLE='SB Admin' -e SPRING_BOOT_ADMIN_SECURITY_ENABLED=false --name spring-boot-admin slydeveloper/spring-boot-admin:latest`
