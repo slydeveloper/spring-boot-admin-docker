@@ -20,7 +20,8 @@ Details
 - Default port: `1111`
 - Default user: `admin`
 - Default password: `secret`
-- Health check - `http://localhost:1111/health`
+- URL: `http://localhost:1111`
+- Health check URL - `http://localhost:1111/health`
 
 Usage
 --------
