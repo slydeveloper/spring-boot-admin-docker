@@ -7,7 +7,7 @@ IMAGE=spring-boot-admin
 VERSION=1.0
 
 # build JAR package
-mvn clean package -Dmaven.test.skip=true
+mvn clean package
 
 # build Docker image
 docker build -t $USERNAME/$IMAGE:latest .
