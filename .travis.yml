@@ -8,6 +8,6 @@ script:
 - mvn clean package
 - docker build -t slydeveloper/spring-boot-admin:latest .
 - docker run -d -p 1111:1111 --name spring-boot-admin slydeveloper/spring-boot-admin:latest
-- sleep 5
+- sleep 30
 - docker exec -it spring-boot-admin sh -c "curl -f http://localhost:1111/health"
 - docker logs spring-boot-admin
