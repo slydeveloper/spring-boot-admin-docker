@@ -4,9 +4,9 @@ Yet another implementation of containerized [spring-boot-admin](https://github.c
 
 Docker Image
 ------------
-[![](https://images.microbadger.com/badges/image/slydeveloper/spring-boot-admin.svg)](https://microbadger.com/images/slydeveloper/spring-boot-admin "Get your own image badge on microbadger.com")
-[![](https://images.microbadger.com/badges/version/slydeveloper/spring-boot-admin.svg)](https://microbadger.com/images/slydeveloper/spring-boot-admin "Get your own version badge on microbadger.com")
-[![Docker Pulls](https://img.shields.io/docker/pulls/slydeveloper/spring-boot-admin.svg)](https://hub.docker.com/r/slydeveloper/spring-boot-admin/)
+[![](https://images.microbadger.com/badges/image/slydeveloper/spring-boot-admin.svg)](https://microbadger.com/images/slydeveloper/spring-boot-admin "Get your own image badge on microbadger.com")<br />
+[![](https://images.microbadger.com/badges/version/slydeveloper/spring-boot-admin.svg)](https://microbadger.com/images/slydeveloper/spring-boot-admin "Get your own version badge on microbadger.com")<br />
+[![Docker Pulls](https://shields.beevelop.com/docker/pulls/slydeveloper/spring-boot-admin.svg)](https://hub.docker.com/r/slydeveloper/spring-boot-admin/)
 
 Info
 ----
