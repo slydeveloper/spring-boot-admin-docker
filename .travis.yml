@@ -1,0 +1,13 @@
+language: java
+sudo: false
+
+services:
+  - docker
+
+script: 
+- mvn clean package
+- docker build -t slydeveloper/spring-boot-admin:latest .
+- docker run -d -p 1111:1111 --name spring-boot-admin slydeveloper/spring-boot-admin:latest
+- sleep 5
+- docker exec -it spring-boot-admin bash -c "curl -f http://localhost:1111/health"
+- docker logs spring-boot-admin
