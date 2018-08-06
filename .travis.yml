@@ -2,7 +2,7 @@ language: java
 sudo: false
 
 services:
-  - docker
+- docker
 
 script: 
 - mvn clean package
