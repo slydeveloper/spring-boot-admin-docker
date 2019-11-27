@@ -1,4 +1,4 @@
-Spring Boot Admin Docker
+Spring Boot Admin
 ========================
 Yet another implementation of containerized [spring-boot-admin](https://github.com/codecentric/spring-boot-admin)
 
