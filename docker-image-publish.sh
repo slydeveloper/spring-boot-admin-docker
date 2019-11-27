@@ -4,7 +4,7 @@ set -ex
 
 USERNAME=slydeveloper
 IMAGE=spring-boot-admin
-VERSION=1.0
+VERSION=1.1
 
 # build JAR package
 mvn clean package

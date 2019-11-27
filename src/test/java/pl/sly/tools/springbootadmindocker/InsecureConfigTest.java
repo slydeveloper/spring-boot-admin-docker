@@ -21,7 +21,7 @@ import pl.sly.tools.springbootadmindocker.config.SecurityConfig;
 public class InsecureConfigTest {
 
     private static final String DEFAULT_PATH = "/";
-    private static final String HTML_APP_DIV = "<div id=\"app\"></div>";
+    private static final String HTML_APP_DIV = "<title>Spring Boot Admin Docker</title>";
 
     @Autowired
     private ApplicationContext applicationContext;
