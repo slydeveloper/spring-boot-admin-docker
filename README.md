@@ -12,7 +12,7 @@ Docker Image
 Info
 ----
 - Name: `slydeveloper/spring-boot-admin`
-- Version: `latest`,`1.1`
+- Version: `latest`,`1.1`,`1.0`
 - [Docker Hub](https://hub.docker.com/r/slydeveloper/spring-boot-admin/)
 
 Details
