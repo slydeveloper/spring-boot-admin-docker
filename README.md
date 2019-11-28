@@ -49,7 +49,7 @@ Configuration via properties file
 ---------------------------------
 A container supports configuration via *.properties file, just like regular Spring Boot application.
 Please note that environment variables will be override by properties file.
-Properties of Spring Boot Admin: http://codecentric.github.io/spring-boot-admin/2.0.1/#spring-boot-admin-server
+Properties of Spring Boot Admin: http://codecentric.github.io/spring-boot-admin/2.1.6/#spring-boot-admin-server
 
 Example `application-docker.properties` file:
 ```
