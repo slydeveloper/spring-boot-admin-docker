@@ -1,0 +1,6 @@
+.git
+.DS_Store/
+.vscode/
+.idea
+.mvn
+.settings
