@@ -12,14 +12,14 @@ Docker Image
 Info
 ----
 - Name: `slydeveloper/spring-boot-admin`
-- Version: `latest`,`1.1`,`1.0`
+- Version: `latest`,`1.2`,`1.1`,`1.0`
 - [Docker Hub](https://hub.docker.com/r/slydeveloper/spring-boot-admin/)
 
 Details
 --------
 - Image based on `java:8-jre-alpine`
-- Spring Boot Admin version: `2.1.6`
-- Spring Boot version: `2.1.10.RELEASE`
+- Spring Boot Admin version: `2.2.2`
+- Spring Boot version: `2.2.6.RELEASE`
 - Default port: `1111`
 - Default user: `admin`
 - Default password: `secret`
@@ -104,4 +104,4 @@ services:
 
 Links
 -----
-- Spring Boot Admin documentation: http://codecentric.github.io/spring-boot-admin/2.1.6/
+- Spring Boot Admin documentation: http://codecentric.github.io/spring-boot-admin/2.2.2/
