@@ -18,8 +18,8 @@ Info
 Details
 --------
 - Image based on `java:8-jre-alpine`
-- Spring Boot Admin version: `2.2.2`
-- Spring Boot version: `2.2.6.RELEASE`
+- Spring Boot Admin version: `2.6.0`
+- Spring Boot version: `2.6.2`
 - Default port: `1111`
 - Default user: `admin`
 - Default password: `secret`
@@ -104,4 +104,4 @@ services:
 
 Links
 -----
-- Spring Boot Admin documentation: http://codecentric.github.io/spring-boot-admin/2.2.2/
+- Spring Boot Admin documentation: http://codecentric.github.io/spring-boot-admin/2.6.0/
