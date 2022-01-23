@@ -2,17 +2,10 @@ Spring Boot Admin
 ========================
 Yet another implementation of containerized [spring-boot-admin](https://github.com/codecentric/spring-boot-admin)
 
-Docker Image
-------------
-[![Build Status](https://travis-ci.org/slydeveloper/spring-boot-admin-docker.svg?branch=master)](https://travis-ci.org/slydeveloper/spring-boot-admin-docker)<br />
-[![](https://images.microbadger.com/badges/image/slydeveloper/spring-boot-admin.svg)](https://microbadger.com/images/slydeveloper/spring-boot-admin "Get your own image badge on microbadger.com")<br />
-[![](https://images.microbadger.com/badges/version/slydeveloper/spring-boot-admin.svg)](https://microbadger.com/images/slydeveloper/spring-boot-admin "Get your own version badge on microbadger.com")<br />
-[![Docker Pulls](https://shields.beevelop.com/docker/pulls/slydeveloper/spring-boot-admin.svg)](https://hub.docker.com/r/slydeveloper/spring-boot-admin/)
-
 Info
 ----
 - Name: `slydeveloper/spring-boot-admin`
-- Version: `latest`,`1.2`,`1.1`,`1.0`
+- Version: `latest`,`1.3`,`1.2`,`1.1`,`1.0`
 - [Docker Hub](https://hub.docker.com/r/slydeveloper/spring-boot-admin/)
 
 Details
